@@ -1,4 +1,4 @@
-# ACF TIME Field
+# ACF TIMER Field
 
 Welcome to the Advanced Custom Fields Timer repository on Github.
 
