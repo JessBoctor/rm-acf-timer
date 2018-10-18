@@ -1,0 +1,32 @@
+
+div.timer{
+	display: inline-block;
+	max-width: 45%;
+	margin: 2%; 
+	border: 2px solid #808080;
+	padding: 4px 6px;
+}
+
+div.timer-btn{
+	display: inline-block;
+	max-width: 20%
+	margin: 2%; 
+}
+
+a.btn {
+	background-color: #808080; /* Gray (web colors) */
+	color: #ffffff;
+	padding: 4px;
+}
+
+a.btn:hover{
+	background-color: #1E90FF; /* DodgerBlue (web colors) */
+}
+
+a.btn-start{
+	text-align: left;
+}
+
+a.btn-stop{
+	text-align: right;
+}
