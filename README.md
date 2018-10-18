@@ -1,5 +1,5 @@
-# ACF FIELD_LABEL Field
+# ACF TIME Field
 
-Welcome to the Advanced Custom Fields FIELD_LABEL repository on Github.
+Welcome to the Advanced Custom Fields Timer repository on Github.
 
 EXTENDED_DESCRIPTION
